@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohammad/Desktop/Fog/main.cpp
+ndn-cxx/face.hpp
+-
+ndn-cxx/security/key-chain.hpp
+-
+ndn-cxx/interest.hpp
+-
+iostream
+-
+

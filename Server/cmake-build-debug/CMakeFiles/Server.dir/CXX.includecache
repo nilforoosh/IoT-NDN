@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohammad/Desktop/Server/main.cpp
+ndn-cxx/face.hpp
+-
+ndn-cxx/interest.hpp
+-
+ndn-cxx/data.hpp
+-
+iostream
+-
+string
+-
+

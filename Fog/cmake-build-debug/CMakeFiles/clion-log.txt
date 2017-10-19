@@ -1,0 +1,7 @@
+/home/mohammad/clion-2017.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mohammad/Desktop/Fog
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'libndn-cxx'
+--   Found libndn-cxx, version 0.5.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mohammad/Desktop/Fog/cmake-build-debug

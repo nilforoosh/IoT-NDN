@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Sensor.dir/main.cpp.o  -o Sensor -lndn-cxx -lboost_system -lboost_filesystem -lboost_date_time -lboost_iostreams -lboost_regex -lboost_program_options -lboost_chrono -lboost_thread -lboost_log -lboost_log_setup -lcryptopp -lssl -lcrypto -lsqlite3 -lrt -lpthread 
